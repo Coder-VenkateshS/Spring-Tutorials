@@ -2,7 +2,7 @@ package com.face.spring.test;
 
 public class Person {
 public void display() {
-	System.out.println("Hi Springs");
+	System.out.println("Hi Springs! Let us learn spring");
 
 }
 }
